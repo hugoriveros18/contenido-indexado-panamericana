@@ -1,5 +1,11 @@
 {
   "contenido-indexado-hp": {
     "component": "ContenidoIndexadoHP"
+  },
+  "contenido-flexmedia-minisite": {
+    "component": "ContenidoFlexmediaMinisite"
+  },
+  "contexto-producto": {
+    "component": "ContextoProducto"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "contenido-indexado",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "scripts": {
     "test": "vtex-test-tools test"
   },

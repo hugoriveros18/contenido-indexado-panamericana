@@ -36,7 +36,6 @@ export default function ContenidoIndexadoHP() {
 
   return (
     <>
-      <div style={{display: "none"}} id='product-context-ean'>{productContext?.selectedItem.ean}</div>
       <div id='contenidoIndexado' className={handles.hpContentContainer}></div>
     </>
   )
