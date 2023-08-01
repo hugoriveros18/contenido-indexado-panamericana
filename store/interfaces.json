@@ -5,6 +5,9 @@
   "contenido-flexmedia-minisite": {
     "component": "ContenidoFlexmediaMinisite"
   },
+  "contenido-flexmedia-decription": {
+    "component": "ContenidoFlexmediaDescription"
+  },
   "contexto-producto": {
     "component": "ContextoProducto"
   },
