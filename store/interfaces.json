@@ -13,5 +13,8 @@
   },
   "custom-html": {
     "component": "CustomHTML"
+  },
+  "custom-html-component": {
+    "component": "CustomHTMLComponent"
   }
 }
